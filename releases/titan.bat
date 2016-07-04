@@ -6,7 +6,7 @@ ver 2.0
 echo Welcome to the HotROM BOX!
 @ping 127.0.0.1 -n 1 -w 1000 > nul
 :menu
-echo TITAN-GithubReleases | Choose a number:
+echo TITAN - GithubReleases | store.data
 echo 1 - Flash Stock ROM
 echo 2 - Flash Team Win Recovery
 echo 3 - Reboot Moto G 2014
