@@ -2,7 +2,7 @@ Welcome to The HotROM Box Repo!
 ===================
 
 
-Hey guys! I am "lelufg" (a.k.a spamtheboss) and this is the Official HRB Repository. Here you can find all the source code of every single version of this Tool. You can also **Modify** it and **Study** for yourself! 
+Hey guys! I am vaporwavie and this is the Official HRB Repository. Here you can find all the source code of every single version of this Tool. You can also **Modify** it and **Study** for yourself! 
 
 ----------
 
@@ -29,4 +29,3 @@ Check "releases" folder, source files will be there, but only the main ones. (no
 > **Fast hint:** If you want to test the whole package, download the full builds located on each device forum. 
 
 Cheers and happy coding!
-Spam.
